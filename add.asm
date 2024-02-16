@@ -1,0 +1,4 @@
+MOV BX, 5H
+MOV CX, 10H
+ADD BX, CX
+HLT

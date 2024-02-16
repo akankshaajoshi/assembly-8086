@@ -1,0 +1,4 @@
+MOV AX, 5H
+MOV BX, 10H
+MUL BX
+HLT
